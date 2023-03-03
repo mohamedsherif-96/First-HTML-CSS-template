@@ -6,6 +6,10 @@
   --mainPading: 50px;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   font-family: "Work Sans";
 }
